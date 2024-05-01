@@ -4,8 +4,11 @@ Bloom is an Android application that aims to provide guidance and assistance to 
 
 ## Features
 <!-- Add bullet points -->
-  - Real-time object detection using a pre-trained model
+  - Real-time object detection with distance using a pre-trained model
   - Camera preview with object tracking overlay
+  - Currency detection
+  - Emergency calling
+  - Optical character recognition for reading
   - Customizable model selection and inference settings
 
 [//]: # ()
